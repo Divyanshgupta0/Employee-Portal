@@ -1,0 +1,4 @@
+name: employee-portal
+recipe: drupal10
+config:
+  webroot: web
