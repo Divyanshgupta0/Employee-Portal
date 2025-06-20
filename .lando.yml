@@ -1,4 +1,4 @@
-name: employee-portal
+name: employee-portal-push-test
 recipe: drupal10
 config:
   webroot: web
